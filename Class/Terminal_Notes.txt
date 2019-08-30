@@ -1,0 +1,2 @@
+
+ls: lists every file/folder in directory  
