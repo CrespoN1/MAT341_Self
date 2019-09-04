@@ -1,0 +1,5 @@
+1) i: starts typing
+2) Esc: stop typing
+3) :w saves file
+4) :q quits the file 
+5) :# brings you to that line of code
