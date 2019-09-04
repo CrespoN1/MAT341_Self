@@ -1,2 +1,3 @@
-
-ls: lists every file/folder in directory  
+1) CD: changes directory 
+2) ls: lists every file/folder in directory 
+3) pwd: shows the directory 
